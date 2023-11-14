@@ -1,0 +1,34 @@
+{
+  "animeList": [
+    {
+      "alt": "Attack on Titan Poster",
+      "desc": "In a world where massive humanoid creatures known as Titans threaten humanity's existence, Eren Yeager and his friends join the military to fight against the Titans and uncover the mysteries behind their existence.",
+      "img": "attack_on_titan.jpg",
+      "title": "Attack on Titan"
+    },
+    {
+      "alt": "My Hero Academia Poster",
+      "desc": "Set in a world where the majority of the population has superpowers known as 'Quirks,' My Hero Academia follows Izuku Midoriya as he enrolls in U.A. High School to train as a hero after inheriting the powerful Quirk of the greatest hero, All Might.",
+      "img": "my_hero_academia.jpg",
+      "title": "My Hero Academia"
+    },
+    {
+      "alt": "One Punch Man Poster",
+      "desc": "Saitama, an ordinary man who becomes a hero for fun, gains overwhelming power and the ability to defeat any opponent with a single punch. Seeking excitement, Saitama navigates a world filled with heroes and villains.",
+      "img": "one_punch_man.jpg",
+      "title": "One Punch Man"
+    },
+    {
+      "alt": "Demon Slayer Poster",
+      "desc": "Tanjiro Kamado, after his family is slaughtered by demons and his sister turned into one, joins the Demon Slayer Corps to avenge his family and cure his sister. The series follows his journey to eradicate demons and uncover the truth behind their existence.",
+      "img": "demon_slayer.jpg",
+      "title": "Demon Slayer"
+    },
+    {
+      "alt": "Death Note Poster",
+      "desc": "Light Yagami, a highly intelligent high school student, discovers a mysterious notebook called the 'Death Note,' granting him the power to kill anyone by writing their name in it. Driven by a desire to create a crime-free utopia, Light faces off against the enigmatic detective known as 'L.'",
+      "img": "death_note.jpg",
+      "title": "Death Note"
+    }
+  ]
+}
