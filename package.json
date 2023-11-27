@@ -1,7 +1,26 @@
 {
-  "name": "continuous-vertical-scroll",
-  "version": "0.1.0",
+  "name": "smooth-continuous-vertical-swiper",
+  "version": "1.0.0",
   "private": true,
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "React",
+    "Swiper",
+    "Tailwind CSS"
+  ],
+  "author": "Takuma Yumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osushikuma/smooth-continuous-vertical-swiper/issues"
+  },
+  "homepage": "https://github.com/osushikuma/smooth-continuous-vertical-swiper",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -12,12 +31,6 @@
     "react-scripts": "^5.0.1",
     "swiper": "^11.0.4",
     "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
