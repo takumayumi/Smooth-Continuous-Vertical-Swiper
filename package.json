@@ -17,10 +17,6 @@
   ],
   "author": "Takuma Yumi",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/osushikuma/smooth-continuous-vertical-swiper/issues"
-  },
-  "homepage": "https://github.com/osushikuma/smooth-continuous-vertical-swiper",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
