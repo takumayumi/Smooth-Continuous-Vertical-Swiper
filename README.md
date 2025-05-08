@@ -2,8 +2,6 @@
 
 A simple React project demonstrating the use of Swiper for continuous vertical scrolling with Tailwind CSS styling.
 
-## Overview
-
 This project serves as a basic example of integrating Swiper, a popular touch slider library, into a React application to create a continuous vertical scrolling experience. The project also utilizes Tailwind CSS for styling components.
 
 ## Features
