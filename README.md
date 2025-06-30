@@ -13,9 +13,6 @@ A simple React project demonstrating the use of Swiper for continuous vertical s
 - **Swiper.js**: Modern slider library used for smooth and responsive scrolling.
 - **Tailwind CSS**: Utility-first CSS framework for fast styling.
 
-## Getting Started
+## Learning
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/react-swiper-continuous-vertical-scroll.git
+You are welcome to use this project to learn and build your own ideas. Just kindly refrain from using any of the assets, as they are personal or licensed assets.
