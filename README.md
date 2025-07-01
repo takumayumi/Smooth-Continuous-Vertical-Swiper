@@ -10,8 +10,8 @@ A simple React project demonstrating the use of Swiper for continuous vertical s
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
-- **Swiper.js**: Modern slider library used for smooth and responsive scrolling.
-- **Tailwind CSS**: Utility-first CSS framework for fast styling.
+- **Swiper**: Modern slider library used for smooth and responsive scrolling.
+- **Tailwind CSS 3**: Utility-first CSS framework for fast styling.
 
 ## Learning
 
