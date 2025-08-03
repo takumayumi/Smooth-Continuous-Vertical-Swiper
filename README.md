@@ -1,18 +1,23 @@
 # Smooth Continuous Vertical Swiper
 
-A simple React project demonstrating the use of Swiper for continuous vertical scrolling with Tailwind CSS styling.
+A simple React project that showcases a smooth, continuous vertical scrolling effect using **Swiper**, styled with **Tailwind CSS**. This project demonstrates how to create a responsive vertical swiper with a clean, modular React component structure.
 
 ## Features
 
-- **Continuous Vertical Scrolling:** Swiper is configured for a seamless and continuous vertical scrolling experience.
-- **React Components:** Demonstrates the usage of React components for a modular structure.
+- **Continuous Vertical Scrolling**: Smooth, seamless vertical transitions using Swiper’s loop functionality.
+- **Modular React Components**: Built with clean and reusable React components to promote a scalable project structure.
+- **Tailwind CSS Styling**: Fast, responsive, and utility-first styling with Tailwind CSS v3.
 
 ## Technologies Used
 
-- **React**: JavaScript library for building user interfaces.
-- **Swiper**: Modern slider library used for smooth and responsive scrolling.
-- **Tailwind CSS 3**: Utility-first CSS framework for fast styling.
+- **React**: For building dynamic UI components.
+- **Swiper**: For smooth and customizable scroll effects.
+- **Tailwind CSS 3**: For utility-based, responsive styling.
 
-## Learning
+## Project Status
 
-You are welcome to use this project to learn and build your own ideas. Just kindly refrain from using any of the assets, as they are personal or licensed assets.
+This project is complete and not actively maintained. It is intended as a demo and learning resource for Swiper integration.
+
+## License
+
+This project is open for educational and demonstration purposes. No official license is applied.
