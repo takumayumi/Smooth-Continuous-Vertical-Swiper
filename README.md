@@ -17,7 +17,3 @@ A simple React project that showcases a smooth, continuous vertical scrolling ef
 ## Project Status
 
 This project is complete and not actively maintained. It is intended as a demo and learning resource for Swiper integration.
-
-## License
-
-This project is open for educational and demonstration purposes. No official license is applied.
